@@ -1,18 +1,18 @@
 # Python-DS-Estudos
 
 ## Revisão Básica Python
-[x] Tipos de Dados
-[] Operações matemáticas
+- [x] Tipos de Dados
+- [ ] Operações matemáticas
 
 
 ## Numpy
-[x] sum
-[] mean
+- [x] sum
+- [ ] mean
 
 
 ## Pandas
 
 # Linguagem R
 ## Sintax Básica 
-[x] Tipos de dados
-[] Operações matemáticas
+- [x] Tipos de dados
+- [ ] Operações matemáticas
